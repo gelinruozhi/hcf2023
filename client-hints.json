@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "timestamp": "2025-10-02T03:30:53.323Z",
+    "clientHints": {
+        "userAgent": "\"Google Chrome\";v=\"130\", \"Chromium\";v=\"130\", \"Not.A/Brand\";v=\"99\"",
+        "mobile": false,
+        "platform": "Windows",
+        "platformVersion": null,
+        "arch": null,
+        "model": null,
+        "fullVersion": null,
+        "fullVersionList": null
+    },
+    "detectedOS": "Windows",
+    "isMobile": false,
+    "hasHighEntropyData": false,
+    "serverSupport": {
+        "acceptCH": true,
+        "permissionsPolicy": true,
+        "criticalCH": true,
+        "https": true
+    }
+}
