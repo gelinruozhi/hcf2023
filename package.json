@@ -1,0 +1,18 @@
+{
+    "name": "device-detector",
+    "version": "1.0.0",
+    "description": "A simple Node.js HTTP server for demonstrating and capturing HTTP Client Hints.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "http",
+        "client-hints",
+        "nodejs",
+        "hcf2023"
+    ],
+    "author": "MeTerminator",
+    "license": "MIT"
+}
